@@ -1,0 +1,7680 @@
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 459.12
+
+profit MACD: -622.2183491918944
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 226.08
+
+profit MACD: -813.9716521989191
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 242.87
+
+profit MACD: -804.9349639753676
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 189.93
+
+profit MACD: -810.0735699446595
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 193.91
+
+profit MACD: -868.0929846749509
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 193.91
+
+profit MACD: -868.0929846749509
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 201.82
+
+profit MACD: -862.711366632577
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 197.44
+
+profit MACD: -865.6898745627676
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 371.20
+
+profit MACD: -694.5587390325184
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 266.17
+
+profit MACD: -780.9866852727075
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 297.85
+
+profit MACD: -760.7823142154258
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 216.75
+
+profit MACD: -783.2502814532372
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 243.59
+
+profit MACD: -834.2962779068848
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 243.59
+
+profit MACD: -834.2962779068848
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 253.47
+
+profit MACD: -827.5763109945548
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 231.09
+
+profit MACD: -842.8018587558375
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 272.59
+
+profit MACD: -727.4082592935451
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 181.51
+
+profit MACD: -845.6423849278226
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 148.79
+
+profit MACD: -873.4687528965623
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 139.62
+
+profit MACD: -860.3835768721566
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 236.28
+
+profit MACD: -838.9196065585774
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 219.04
+
+profit MACD: -850.6732700105215
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 219.04
+
+profit MACD: -850.6732700105215
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 219.04
+
+profit MACD: -850.6732700105215
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 233.80
+
+profit MACD: -766.2037498312952
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 243.54
+
+profit MACD: -792.8951728871361
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 182.81
+
+profit MACD: -844.5409221841707
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 173.76
+
+profit MACD: -826.2373828169501
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 378.09
+
+profit MACD: -742.2387001558847
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 378.09
+
+profit MACD: -742.2387001558847
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 378.09
+
+profit MACD: -742.2387001558847
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 378.09
+
+profit MACD: -742.2387001558847
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 719.63
+
+profit MACD: -409.73833253482866
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 488.76
+
+profit MACD: -599.1094997863204
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 502.81
+
+profit MACD: -596.1663332671988
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 398.93
+
+profit MACD: -601.0746346563485
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 440.81
+
+profit MACD: -711.5652339851724
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 440.81
+
+profit MACD: -711.5652339851724
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 440.81
+
+profit MACD: -711.5652339851724
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 440.81
+
+profit MACD: -711.5652339851724
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 607.52
+
+profit MACD: -501.69675552147385
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 598.08
+
+profit MACD: -509.4434386969134
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 566.54
+
+profit MACD: -544.9821667669747
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 483.87
+
+profit MACD: -516.1295150113077
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 524.42
+
+profit MACD: -656.8572628143008
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 524.42
+
+profit MACD: -656.8572628143008
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 524.42
+
+profit MACD: -656.8572628143008
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 524.42
+
+profit MACD: -656.8572628143008
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 853.44
+
+profit MACD: -320.365699443214
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 592.58
+
+profit MACD: -499.93112682792
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 530.08
+
+profit MACD: -552.6687805970685
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 421.84
+
+profit MACD: -578.1648715883139
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 570.85
+
+profit MACD: -647.0466952297339
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 538.03
+
+profit MACD: -667.339442971242
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 538.03
+
+profit MACD: -667.339442971242
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 538.03
+
+profit MACD: -667.339442971242
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 784.21
+
+profit MACD: -375.4918990717073
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 765.22
+
+profit MACD: -354.2421565398265
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 729.74
+
+profit MACD: -384.17865779753663
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 551.53
+
+profit MACD: -448.4657160643686
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 637.36
+
+profit MACD: -605.9220416087364
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 647.16
+
+profit MACD: -599.8654914727632
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 647.16
+
+profit MACD: -599.8654914727632
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 647.16
+
+profit MACD: -599.8654914727632
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 125.72
+
+profit MACD: -899.8835165434376
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 112.05
+
+profit MACD: -911.3592803762106
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 186.59
+
+profit MACD: -852.9632707926639
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 165.96
+
+profit MACD: -834.0396194201755
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 170.82
+
+profit MACD: -860.5036954399671
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 170.82
+
+profit MACD: -860.5036954399671
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 170.82
+
+profit MACD: -860.5036954399671
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 170.82
+
+profit MACD: -860.5036954399671
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 224.92
+
+profit MACD: -815.2516558676084
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 190.63
+
+profit MACD: -849.1900104676815
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 299.38
+
+profit MACD: -764.08204871337
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 273.68
+
+profit MACD: -726.3184256564227
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 189.25
+
+profit MACD: -845.4560114210421
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 189.25
+
+profit MACD: -845.4560114210421
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 189.25
+
+profit MACD: -845.4560114210421
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 189.25
+
+profit MACD: -845.4560114210421
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 226.33
+
+profit MACD: -825.9354672255288
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 182.55
+
+profit MACD: -855.5855087774341
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 242.20
+
+profit MACD: -809.1416260172098
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 218.51
+
+profit MACD: -781.4864633869572
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 163.33
+
+profit MACD: -866.6257505047132
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 163.33
+
+profit MACD: -866.6257505047132
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 167.15
+
+profit MACD: -863.5029918404136
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 162.19
+
+profit MACD: -867.5512387120002
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 246.08
+
+profit MACD: -810.7495991807276
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 193.91
+
+profit MACD: -846.5932849920895
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 271.94
+
+profit MACD: -785.7068136740877
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 244.34
+
+profit MACD: -755.6616316235098
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 213.82
+
+profit MACD: -825.3920197028234
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 213.82
+
+profit MACD: -825.3920197028234
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 213.82
+
+profit MACD: -825.3920197028234
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 213.82
+
+profit MACD: -825.3920197028234
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 722.79
+
+profit MACD: -292.0798241038917
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 584.65
+
+profit MACD: -502.81024486434774
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 504.74
+
+profit MACD: -570.7701239426184
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 440.37
+
+profit MACD: -559.6284485052961
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 579.61
+
+profit MACD: -641.6314439680067
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 535.89
+
+profit MACD: -668.6653822819217
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 535.89
+
+profit MACD: -668.6653822819217
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 535.89
+
+profit MACD: -668.6653822819217
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 648.69
+
+profit MACD: -364.65666907136654
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 754.83
+
+profit MACD: -358.09207111024745
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 688.95
+
+profit MACD: -414.1166342055651
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 567.05
+
+profit MACD: -432.9491892645963
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 681.10
+
+profit MACD: -578.8823175282239
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 679.30
+
+profit MACD: -579.9937828331052
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 679.30
+
+profit MACD: -579.9937828331052
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 679.30
+
+profit MACD: -579.9937828331052
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 724.92
+
+profit MACD: -422.7062118908993
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 509.44
+
+profit MACD: -490.5603944089946
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 997.47
+
+profit MACD: -2.5258216588072457
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 661.61
+
+profit MACD: -338.39008116913783
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 645.85
+
+profit MACD: -619.4769446766007
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 588.63
+
+profit MACD: -653.1933997994681
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 768.88
+
+profit MACD: -546.9948116617028
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 593.48
+
+profit MACD: -650.3350678161781
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 553.47
+
+profit MACD: -559.2414223595636
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 506.92
+
+profit MACD: -493.07759382527274
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 772.34
+
+profit MACD: -227.66314993890083
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 492.52
+
+profit MACD: -507.47824324488903
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 506.03
+
+profit MACD: -701.8597217104701
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 461.04
+
+profit MACD: -728.3630969699165
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 699.25
+
+profit MACD: -588.0185915837426
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ALGOUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 512.58
+
+profit MACD: -697.9995311644279
+DONE
+Final Portfolio Value: 137.17
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 552.16
+
+profit MACD: -546.3614283447388
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 561.70
+
+profit MACD: -538.5179802093626
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 615.20
+
+profit MACD: -384.797077594063
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 467.45
+
+profit MACD: -532.545892700564
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 899.09
+
+profit MACD: -475.13156037290446
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 769.15
+
+profit MACD: -550.9876117832247
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 769.15
+
+profit MACD: -550.9876117832247
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 899.09
+
+profit MACD: -475.13156037290446
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 471.69
+
+profit MACD: -612.470971994256
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 453.09
+
+profit MACD: -627.7520730341472
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 419.90
+
+profit MACD: -580.0988897852054
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 371.33
+
+profit MACD: -628.6650208872564
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 551.77
+
+profit MACD: -677.8896480754117
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 525.28
+
+profit MACD: -693.3574793149901
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 578.75
+
+profit MACD: -662.1372337162139
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 599.21
+
+profit MACD: -650.1958665130435
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 535.65
+
+profit MACD: -464.34833343353915
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 752.38
+
+profit MACD: -379.0762916716618
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 729.90
+
+profit MACD: -270.09614066506765
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 639.07
+
+profit MACD: -360.92525219948425
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1353.33
+
+profit MACD: -238.01336439750474
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1152.69
+
+profit MACD: -350.98280338646214
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1152.69
+
+profit MACD: -350.98280338646214
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1152.69
+
+profit MACD: -350.98280338646214
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 588.90
+
+profit MACD: -411.0976449834378
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 752.18
+
+profit MACD: -379.2352219605188
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 557.53
+
+profit MACD: -442.467587317462
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 607.27
+
+profit MACD: -392.7341802491106
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 956.49
+
+profit MACD: -461.4529262396794
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 745.58
+
+profit MACD: -580.2048252211292
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 764.09
+
+profit MACD: -569.7819983824742
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 809.50
+
+profit MACD: -544.2156065465408
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 871.57
+
+profit MACD: -288.0726588271588
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 731.38
+
+profit MACD: -402.58295345279595
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 886.22
+
+profit MACD: -113.78259984713819
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 647.06
+
+profit MACD: -352.94069611963084
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1308.97
+
+profit MACD: -249.30393549218104
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1250.97
+
+profit MACD: -282.5685368334043
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1250.97
+
+profit MACD: -282.5685368334043
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1250.97
+
+profit MACD: -282.5685368334043
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 863.54
+
+profit MACD: -294.63093088883556
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 702.53
+
+profit MACD: -426.15108598010085
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 715.03
+
+profit MACD: -284.9673313535793
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 623.58
+
+profit MACD: -376.4215056396015
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 852.08
+
+profit MACD: -511.3318217714061
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 814.35
+
+profit MACD: -532.9661471537527
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 834.76
+
+profit MACD: -521.2621727654957
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 884.37
+
+profit MACD: -492.8124128025414
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1562.40
+
+profit MACD: 562.4031025458487
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1659.09
+
+profit MACD: 369.2221183793911
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1243.24
+
+profit MACD: 243.24479900078566
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1092.75
+
+profit MACD: 92.75481513202486
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1969.05
+
+profit MACD: 54.02289599576156
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1994.49
+
+profit MACD: 67.64336792980912
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 2427.06
+
+profit MACD: 299.1964691340731
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 2066.53
+
+profit MACD: 106.20360875577552
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1385.96
+
+profit MACD: 385.96084260721193
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2186.17
+
+profit MACD: 804.2150962570379
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1321.89
+
+profit MACD: 321.88845684813
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1380.49
+
+profit MACD: 380.49363736623417
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1550.18
+
+profit MACD: -170.19497136289309
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1420.50
+
+profit MACD: -239.6146386827521
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1703.20
+
+profit MACD: -88.28228086449644
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1572.36
+
+profit MACD: -158.32040770260835
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 159.34
+
+profit MACD: -876.6511406005079
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 142.67
+
+profit MACD: -890.207156426526
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 48.13
+
+profit MACD: -951.870102204069
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 113.42
+
+profit MACD: -886.5841823427027
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 254.11
+
+profit MACD: -837.4161139811031
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 265.31
+
+profit MACD: -830.2492120932379
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 257.13
+
+profit MACD: -835.4857184702419
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 309.84
+
+profit MACD: -801.7566627345914
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 156.91
+
+profit MACD: -878.5304406314864
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 180.90
+
+profit MACD: -860.7849441636281
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 59.17
+
+profit MACD: -940.8277439350161
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 108.19
+
+profit MACD: -891.8074747651586
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 291.40
+
+profit MACD: -813.5583054851653
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 284.67
+
+profit MACD: -817.8607070213734
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 221.66
+
+profit MACD: -858.1799717114723
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 257.13
+
+profit MACD: -835.4844932409925
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 111.43
+
+profit MACD: -913.7405374179915
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 92.15
+
+profit MACD: -929.082257164546
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 33.56
+
+profit MACD: -966.4354805999393
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 79.47
+
+profit MACD: -920.5254252867037
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 295.90
+
+profit MACD: -810.6756596468497
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 267.22
+
+profit MACD: -829.0259706353468
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 268.56
+
+profit MACD: -828.1714724632568
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 309.84
+
+profit MACD: -801.7566627345914
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 92.57
+
+profit MACD: -928.3400480682857
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 73.82
+
+profit MACD: -943.1905788610031
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 29.73
+
+profit MACD: -970.2652088873334
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 55.76
+
+profit MACD: -944.2426312640652
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 308.30
+
+profit MACD: -802.74541897749
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 286.69
+
+profit MACD: -816.5715223243722
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 243.40
+
+profit MACD: -844.2700980356566
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 257.13
+
+profit MACD: -835.4844932409925
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1590.50
+
+profit MACD: 306.67286716786936
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1236.22
+
+profit MACD: 15.620917808733822
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1302.71
+
+profit MACD: 302.71213341483866
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 854.84
+
+profit MACD: -145.15586509007238
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 2481.50
+
+profit MACD: 311.3842777966121
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1856.89
+
+profit MACD: -18.69886699103469
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 2188.39
+
+profit MACD: 156.4869945444826
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1906.48
+
+profit MACD: 7.507412937555671
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1645.74
+
+profit MACD: 352.0611746870171
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1449.81
+
+profit MACD: 191.09279741980848
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1255.05
+
+profit MACD: 255.04846234492672
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1216.24
+
+profit MACD: 216.23623590488165
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1757.52
+
+profit MACD: -71.21092283662114
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1281.46
+
+profit MACD: -322.7907927367956
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1562.63
+
+profit MACD: -174.20560132839026
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1436.64
+
+profit MACD: -240.78436559645712
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1439.59
+
+profit MACD: 114.43106324188335
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1598.44
+
+profit MACD: 358.393907478042
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 555.50
+
+profit MACD: -444.50205795416775
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 475.37
+
+profit MACD: -524.6340611472841
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1074.34
+
+profit MACD: -421.9726865397679
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2776.31
+
+profit MACD: 493.7392795267948
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1295.71
+
+profit MACD: -302.8710814860385
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1661.01
+
+profit MACD: -106.3296155475022
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1230.58
+
+profit MACD: -47.374126998625215
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2006.73
+
+profit MACD: 705.360670788986
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 553.48
+
+profit MACD: -446.5176596496233
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 571.68
+
+profit MACD: -428.3221737341535
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1575.46
+
+profit MACD: -152.35496167484996
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2466.49
+
+profit MACD: 327.0468081889937
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1421.46
+
+profit MACD: -235.21162906623323
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1253.58
+
+profit MACD: -325.5343493723426
+DONE
+Final Portfolio Value: 366.25
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 156.00
+
+profit MACD: -868.9702757324084
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 134.49
+
+profit MACD: -887.0316180372448
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 176.38
+
+profit MACD: -851.8493114800597
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 173.00
+
+profit MACD: -854.6917846024119
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 354.16
+
+profit MACD: -706.4104798301425
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 410.75
+
+profit MACD: -659.50483867497
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 410.75
+
+profit MACD: -659.50483867497
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 410.75
+
+profit MACD: -659.50483867497
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 231.58
+
+profit MACD: -805.4870422277106
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 182.66
+
+profit MACD: -846.5780570855411
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 260.00
+
+profit MACD: -781.6115726585895
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 252.75
+
+profit MACD: -787.699866409383
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 220.22
+
+profit MACD: -817.449299217732
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 255.45
+
+profit MACD: -788.2404729434747
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 255.45
+
+profit MACD: -788.2404729434747
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 255.45
+
+profit MACD: -788.2404729434747
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 283.74
+
+profit MACD: -716.260955102298
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 195.66
+
+profit MACD: -836.3732560035859
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 251.15
+
+profit MACD: -789.9670379607768
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 256.04
+
+profit MACD: -785.8763324352992
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 702.30
+
+profit MACD: -402.14906182492547
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 729.29
+
+profit MACD: -379.1776878953735
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 729.29
+
+profit MACD: -379.1776878953735
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 729.29
+
+profit MACD: -379.1776878953735
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 353.48
+
+profit MACD: -646.519278327853
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 305.45
+
+profit MACD: -744.5560670429635
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 310.26
+
+profit MACD: -740.5351273097998
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 429.18
+
+profit MACD: -641.0761446805948
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 481.10
+
+profit MACD: -590.4548501874457
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 435.29
+
+profit MACD: -629.4531847468755
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 435.29
+
+profit MACD: -629.4531847468755
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 435.29
+
+profit MACD: -629.4531847468755
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 254.58
+
+profit MACD: -787.1878257250005
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 192.57
+
+profit MACD: -839.024187354449
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 228.94
+
+profit MACD: -808.616963201634
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 272.11
+
+profit MACD: -772.5336110729689
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 631.14
+
+profit MACD: -466.4691037189068
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 714.00
+
+profit MACD: -396.42105206649535
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 714.00
+
+profit MACD: -396.42105206649535
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 714.00
+
+profit MACD: -396.42105206649535
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 284.59
+
+profit MACD: -762.0978381358136
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 292.51
+
+profit MACD: -755.4767263189943
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 325.49
+
+profit MACD: -727.9135293778854
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 406.18
+
+profit MACD: -660.4596911124191
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 399.85
+
+profit MACD: -661.9859706864182
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 428.48
+
+profit MACD: -637.7892209707929
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 428.48
+
+profit MACD: -637.7892209707929
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 428.48
+
+profit MACD: -637.7892209707929
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 591.18
+
+profit MACD: -506.1572934780161
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 373.44
+
+profit MACD: -677.4869497109253
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 304.96
+
+profit MACD: -736.6271030340043
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 315.33
+
+profit MACD: -727.6722730592857
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1304.10
+
+profit MACD: 89.3894451337436
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 881.70
+
+profit MACD: -255.78577672668064
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 961.40
+
+profit MACD: -194.10429445763887
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 954.78
+
+profit MACD: -194.10429445763887
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 555.54
+
+profit MACD: -513.2788214374665
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 426.02
+
+profit MACD: -632.0748413178504
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 244.54
+
+profit MACD: -788.8104829007596
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 284.07
+
+profit MACD: -754.6687321162242
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 706.50
+
+profit MACD: -409.8242300238107
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 647.81
+
+profit MACD: -453.20248645807175
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 599.98
+
+profit MACD: -497.064048260703
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 588.95
+
+profit MACD: -502.88631595676145
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 96.98
+
+profit MACD: -918.9849266544002
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 163.43
+
+profit MACD: -867.9775006984977
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 59.43
+
+profit MACD: -952.1126698227362
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 79.49
+
+profit MACD: -933.235128566658
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 267.09
+
+profit MACD: -784.7669260956607
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 272.79
+
+profit MACD: -780.1765628882989
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 276.14
+
+profit MACD: -777.4794610676972
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 298.41
+
+profit MACD: -759.529472442407
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 123.22
+
+profit MACD: -900.703731954111
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 196.01
+
+profit MACD: -841.6641459582665
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 86.70
+
+profit MACD: -930.136745992113
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 129.39
+
+profit MACD: -891.32119002152
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 195.75
+
+profit MACD: -842.2577232164338
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 213.06
+
+profit MACD: -828.3096936392953
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 214.51
+
+profit MACD: -827.1386319478556
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 209.95
+
+profit MACD: -830.8150760684899
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 132.00
+
+profit MACD: -895.0041179368977
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 115.53
+
+profit MACD: -906.6717809554582
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 52.09
+
+profit MACD: -958.0210409105773
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 62.62
+
+profit MACD: -947.4028412539496
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 273.31
+
+profit MACD: -779.7604278472395
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 273.31
+
+profit MACD: -779.7604278472395
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 274.78
+
+profit MACD: -778.5747780732013
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 298.41
+
+profit MACD: -759.529472442407
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 190.14
+
+profit MACD: -848.760962428619
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 196.34
+
+profit MACD: -841.3965575790021
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 100.26
+
+profit MACD: -919.2047818439407
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 132.04
+
+profit MACD: -889.091254653288
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 210.89
+
+profit MACD: -830.0548219106187
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 210.89
+
+profit MACD: -830.0548219106187
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 210.89
+
+profit MACD: -830.0548219106187
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 207.72
+
+profit MACD: -832.6156634420355
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 632.59
+
+profit MACD: -445.77448250049775
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 298.14
+
+profit MACD: -750.6691403382259
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 345.06
+
+profit MACD: -711.4253109282765
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 356.16
+
+profit MACD: -702.1464116215403
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1135.35
+
+profit MACD: -5.295898492153555
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 878.84
+
+profit MACD: -250.19940410436513
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 958.07
+
+profit MACD: -182.60562370285686
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 958.07
+
+profit MACD: -182.60562370285686
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 634.17
+
+profit MACD: -444.39372772425764
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 366.52
+
+profit MACD: -693.4861323866427
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 300.50
+
+profit MACD: -748.6974351075226
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 463.66
+
+profit MACD: -612.2468945051005
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 783.86
+
+profit MACD: -313.2485329891842
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 612.50
+
+profit MACD: -477.4330976235919
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 567.19
+
+profit MACD: -516.0953972813503
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 560.62
+
+profit MACD: -521.6973474434719
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 487.56
+
+profit MACD: -592.7133500507936
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 626.68
+
+profit MACD: -457.3055310764153
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 331.76
+
+profit MACD: -668.2351508665357
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 567.69
+
+profit MACD: -508.38751384679114
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1231.43
+
+profit MACD: 28.677968542370436
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1100.32
+
+profit MACD: -47.13551585612947
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 453.18
+
+profit MACD: -546.8181559197238
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1169.34
+
+profit MACD: 21.49356948455528
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 361.29
+
+profit MACD: -683.4676067535389
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 587.79
+
+profit MACD: -490.9762211065854
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 310.23
+
+profit MACD: -689.7695312042387
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 406.24
+
+profit MACD: -648.1963040403251
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 889.12
+
+profit MACD: -257.2718066178528
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 904.78
+
+profit MACD: -216.46679077555967
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 572.22
+
+profit MACD: -427.78427911196405
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 957.54
+
+profit MACD: -163.52553562495814
+DONE
+Final Portfolio Value: 372.24
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 440.84
+
+profit MACD: -624.8565686734258
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 576.94
+
+profit MACD: -509.0358293107465
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 630.73
+
+profit MACD: -466.2981583974012
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 514.35
+
+profit MACD: -485.649085860556
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1185.58
+
+profit MACD: -297.1351421693456
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1176.08
+
+profit MACD: -302.76610864819304
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1185.58
+
+profit MACD: -297.1351421693456
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1185.58
+
+profit MACD: -297.1351421693456
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 526.09
+
+profit MACD: -552.3077576100818
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 710.96
+
+profit MACD: -394.9875439617304
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 723.02
+
+profit MACD: -388.21103432299583
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 636.03
+
+profit MACD: -363.96948838832594
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1126.97
+
+profit MACD: -331.87659620277225
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1117.49
+
+profit MACD: -337.4993953165565
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1126.97
+
+profit MACD: -331.87659620277225
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1126.97
+
+profit MACD: -331.87659620277225
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 945.04
+
+profit MACD: -54.95946916707709
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1125.89
+
+profit MACD: -33.23295089789899
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1177.47
+
+profit MACD: 177.47173288368205
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1146.38
+
+profit MACD: 146.37663361396685
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 2470.68
+
+profit MACD: 445.6852725079288
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2379.60
+
+profit MACD: 392.3912655087027
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 2478.99
+
+profit MACD: 450.54810889952137
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 2379.60
+
+profit MACD: 392.3912655087027
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 956.38
+
+profit MACD: -43.62496539523832
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1227.17
+
+profit MACD: 53.734236939866335
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1132.37
+
+profit MACD: 132.36891197804675
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1209.97
+
+profit MACD: 209.96589793212053
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 2323.20
+
+profit MACD: 359.3888699886086
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2237.56
+
+profit MACD: 309.27610939711116
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 2331.00
+
+profit MACD: 363.9537071377943
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 2237.56
+
+profit MACD: 309.27610939711116
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 705.07
+
+profit MACD: -403.39781199132005
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 918.69
+
+profit MACD: -222.64259429081628
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 953.70
+
+profit MACD: -193.0179134352166
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 916.50
+
+profit MACD: -83.49598590325152
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1402.91
+
+profit MACD: -198.3589964758624
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1776.80
+
+profit MACD: 15.288762660325688
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1797.47
+
+profit MACD: 27.100149494979178
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1776.80
+
+profit MACD: 15.288762660325688
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 857.90
+
+profit MACD: -274.0782529484791
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1120.10
+
+profit MACD: -52.21727782319995
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1081.76
+
+profit MACD: -84.6622263788712
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1107.92
+
+profit MACD: 107.91937571374244
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1314.70
+
+profit MACD: -248.76042896303716
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1670.63
+
+profit MACD: -45.37625655571213
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1690.77
+
+profit MACD: -33.86797861334463
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1670.63
+
+profit MACD: -45.37625655571213
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 773.10
+
+profit MACD: -226.9038105752806
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 973.47
+
+profit MACD: -136.45675577341078
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 708.84
+
+profit MACD: -291.1627981376946
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 848.73
+
+profit MACD: -151.26861347269846
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1679.32
+
+profit MACD: -77.53858721118004
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2014.84
+
+profit MACD: 106.76753852361918
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1862.89
+
+profit MACD: 23.297185795626092
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1789.90
+
+profit MACD: -16.793122161840444
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 920.43
+
+profit MACD: -79.57427322701358
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1070.05
+
+profit MACD: -50.78358198993078
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 764.89
+
+profit MACD: -235.10894582518654
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 959.47
+
+profit MACD: -40.53012784896451
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1653.00
+
+profit MACD: -91.99167505868161
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1848.02
+
+profit MACD: 15.132665057323749
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1766.15
+
+profit MACD: -29.838571220860814
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 14
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1696.96
+
+profit MACD: -67.84468786910094
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 123.87
+
+profit MACD: -898.7775462073729
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 194.96
+
+profit MACD: -840.1206096822444
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 189.80
+
+profit MACD: -839.3993092470699
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 178.20
+
+profit MACD: -821.7968829126852
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 993.64
+
+profit MACD: -382.8080316597583
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 982.54
+
+profit MACD: -389.7048110074776
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1045.67
+
+profit MACD: -350.49022655325405
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1023.02
+
+profit MACD: -364.5597217985209
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 155.64
+
+profit MACD: -872.8161771465359
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 226.75
+
+profit MACD: -814.0551948337056
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 203.87
+
+profit MACD: -827.4930950436872
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 182.71
+
+profit MACD: -817.2891267292773
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1362.69
+
+profit MACD: -219.47421409906354
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1346.81
+
+profit MACD: -228.57238356851457
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1433.88
+
+profit MACD: -178.70018909050458
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1401.44
+
+profit MACD: -197.27701973088043
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 241.80
+
+profit MACD: -802.4167495872117
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 285.73
+
+profit MACD: -765.6872010653977
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 305.89
+
+profit MACD: -741.1673097758161
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 246.36
+
+profit MACD: -753.6392723161739
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 995.09
+
+profit MACD: -381.9066683632924
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 991.26
+
+profit MACD: -384.2881286785077
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1075.59
+
+profit MACD: -331.90786310509577
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1053.69
+
+profit MACD: -345.50734283340773
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 295.81
+
+profit MACD: -758.2812827123809
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 327.91
+
+profit MACD: -731.0991820152739
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 333.14
+
+profit MACD: -718.1103481889616
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 256.18
+
+profit MACD: -743.8225295890986
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1363.16
+
+profit MACD: -219.20486345620955
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1357.85
+
+profit MACD: -222.24558306557375
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1473.81
+
+profit MACD: -155.82687845147862
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 32
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1442.41
+
+profit MACD: -173.81454630464404
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 815.95
+
+profit MACD: -184.05100039769252
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 903.48
+
+profit MACD: -224.21553119253036
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 777.74
+
+profit MACD: -222.2612984932962
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 779.19
+
+profit MACD: -220.8073384680635
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1999.30
+
+profit MACD: 98.23218958152816
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 2075.37
+
+profit MACD: 192.67197219149182
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 2187.20
+
+profit MACD: 256.94152310029995
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 2075.37
+
+profit MACD: 192.67197219149182
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 814.85
+
+profit MACD: -185.14757405225947
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1007.76
+
+profit MACD: -134.67365683957794
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 807.04
+
+profit MACD: -192.96095779235787
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 901.77
+
+profit MACD: -98.22773097065881
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 1963.45
+
+profit MACD: 78.53840586666905
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1969.10
+
+profit MACD: 131.60282979628852
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 2076.06
+
+profit MACD: 193.07200884259515
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 8
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1969.10
+
+profit MACD: 131.60282979628852
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 691.18
+
+profit MACD: -308.81990395040515
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1036.95
+
+profit MACD: -68.18750300840551
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 776.00
+
+profit MACD: -223.9952045031394
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 873.98
+
+profit MACD: -126.02244019269297
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 747.58
+
+profit MACD: -589.6179840761642
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1164.16
+
+profit MACD: -360.94017244674967
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1031.23
+
+profit MACD: -433.91461157996594
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 7
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1110.37
+
+profit MACD: -390.4675295349781
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 766.19
+
+profit MACD: -233.81078520092808
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1069.95
+
+profit MACD: -38.536331027559896
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 833.64
+
+profit MACD: -166.36213433434764
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 2
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 928.94
+
+profit MACD: -71.05669501498471
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 5
+Final MACD Portfolio Value: 913.61
+
+profit MACD: -498.4768744942364
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 15
+direction_period: 15
+Final MACD Portfolio Value: 1407.94
+
+profit MACD: -227.11748982425414
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 5
+Final MACD Portfolio Value: 1305.96
+
+profit MACD: -283.10046523477905
+DONE
+Final Portfolio Value: 1298.90
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 34
+slow_MACD: 72
+signal_MACD: 28
+atr_period: 21
+atr_distance: 6
+sma_period: 35
+direction_period: 15
+Final MACD Portfolio Value: 1313.49
+
+profit MACD: -278.9669875480975
+DONE
+Final Portfolio Value: 1298.90
+
+DONE

@@ -1,0 +1,5 @@
+symbol,slow_macd_period,fast_macd_period,macd_signal_period,atr_period,atr_dist,sma_period,direction_period,profit,Sharpe_ratio,max_drawdown,max_drawdown_duration,profit_vs_BuyHold
+ALGOUSDT,24,52,18,14,3,30,10,2729.75,1.87,38.36,870,-1457.22
+ETHUSDT,24,52,18,14,3,30,10,1835.10,1.92,28.60,705,-9044.82
+LTCUSDT,24,52,18,14,3,30,10,2152.01,1.99,44.71,412,-1767.60
+XMRUSDT,24,52,18,14,3,30,10,895.55,1.27,34.36,803,-3913.84

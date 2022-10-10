@@ -1,0 +1,32 @@
+#!/bin/bash
+
+echo 'symbol,slow_macd_period,fast_macd_period,macd_signal_period,atr_period,atr_dist,sma_period,direction_period,profit,Sharpe_ratio,max_drawdown,max_drawdown_duration,profit_vs_BuyHold' >final_results.csv
+
+declare -a symbols=("ALGOUSDT" "ETHUSDT" "LTCUSDT" "XMRUSDT")
+
+for symbol in "${symbols[@]}"
+do
+	for ((macd1=14; macd1<=34; macd1=macd1+20))
+	do
+		for ((macd2=32;macd2<=72;macd2=macd2+40))
+		do
+			for ((macdsig=8;macdsig<=28;macdsig=macdsig+20))
+			do
+				for ((atrperiod=7;atrperiod<=21;atrperiod=atrperiod+14))
+				do
+					for ((atrdist=2;atrdist<=6;atrdist=atrdist+4))
+					do
+						for ((smaperiod=15;smaperiod<=35;smaperiod=smaperiod+20))
+						do
+							for ((dirperiod=5;dirperiod<=15;dirperiod=dirperiod+10))
+							do
+								python3 -u backtest_MACD.py $symbol $macd1 $macd2 $macdsig $atrperiod $atrdist $smaperiod $dirperiod
+							done
+						done
+					done
+				done
+			done
+		done
+	done
+done
+

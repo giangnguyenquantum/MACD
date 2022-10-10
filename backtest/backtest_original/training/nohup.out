@@ -1,0 +1,60 @@
+symbol: ALGOUSDT
+fast_MACD: 24
+slow_MACD: 52
+signal_MACD: 18
+atr_period: 14
+atr_distance: 3
+sma_period: 30
+direction_period: 10
+Final MACD Portfolio Value: 4240.31
+
+profit MACD: 2729.745403297625
+DONE
+Final Portfolio Value: 5697.53
+
+DONE
+symbol: ETHUSDT
+fast_MACD: 24
+slow_MACD: 52
+signal_MACD: 18
+atr_period: 14
+atr_distance: 3
+sma_period: 30
+direction_period: 10
+Final MACD Portfolio Value: 2835.10
+
+profit MACD: 1835.0983652204525
+DONE
+Final Portfolio Value: 11879.92
+
+DONE
+symbol: LTCUSDT
+fast_MACD: 24
+slow_MACD: 52
+signal_MACD: 18
+atr_period: 14
+atr_distance: 3
+sma_period: 30
+direction_period: 10
+Final MACD Portfolio Value: 3306.34
+
+profit MACD: 2152.0129545548907
+DONE
+Final Portfolio Value: 5073.94
+
+DONE
+symbol: XMRUSDT
+fast_MACD: 24
+slow_MACD: 52
+signal_MACD: 18
+atr_period: 14
+atr_distance: 3
+sma_period: 30
+direction_period: 10
+Final MACD Portfolio Value: 1926.61
+
+profit MACD: 895.5484947393553
+DONE
+Final Portfolio Value: 5840.46
+
+DONE
